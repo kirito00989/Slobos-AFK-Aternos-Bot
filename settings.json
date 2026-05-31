@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+  "server": {Hello-rdsk.aternos.me
+    "ip": "Hello-rdsk.aternos.me",
+    "port": 47517,
+    "version": "1.26.23.1",
     "try-creative": false
   },
   "position": {
